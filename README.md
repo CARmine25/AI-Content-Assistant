@@ -1,22 +1,31 @@
-🤖 AI Content Assistant (MVP)
+# 🧠 AI Content Assistant
 
-A command-line AI-powered content assistant built in Python.
-This MVP (Minimum Viable Product) currently uses a dummy API for offline testing but is fully structured and ready for real AI API integration (OpenAI, Gemini, Hugging Face).
+A simple Python-based CLI tool for:
+- Summarizing text
+- Grammar correction
+- Tone rewriting
+- Translation
+- Headline generation
+- Keyword extraction
 
-✨ Features (MVP Version)(last updated)
+## 🚀 Features
+- Clean, menu-driven CLI interface
+- Modular structure for easy expansion
+- Dummy API integration (ready for real API upgrade)
 
-Simulated AI Responses
-Test the project without internet or API costs.
+## 📦 Installation
+## 📦 Installation
+```bash
+git clone https://github.com/YOUR_USERNAME/AI-Content-Assistant.git
+cd AI-Content-Assistant
+pip install -r requirements.txt
+```
+▶ Usage
+python main.py
 
-Multiple Modes
-1.Q&A style answers
-2.Summarization
-3.Grammar correction
-4.Tone rewriting
+📜 Example
+AI Content Assistant – Menu
+1. Summarize Text
+2. Grammar Correction
+...
 
-Command-Line Interface (CLI)
-1.Minimal, fast, and beginner-friendly.
-2.Logging
-3.Saves all inputs & outputs in timestamped log files.
-4.Modular Project Structure
-5.Organized into utils, prompts, and apis for easy scaling.
