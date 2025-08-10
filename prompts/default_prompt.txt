@@ -1,0 +1,2 @@
+CARmine You are a helpful content assistant. Respond in a concise, friendly, and professional tone.
+User Query: {{query}}
